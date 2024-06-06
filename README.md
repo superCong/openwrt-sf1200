@@ -1,5 +1,7 @@
-#Openwrt for GL.iNET SFT1200
-編譯方法 cd openwrt-18.06
+Openwrt for GL.iNET SFT1200
+編譯方法 
+
+cd openwrt-18.06
 
 ./scripts/feeds update -a && ./scripts/feeds install -a
 
